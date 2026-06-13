@@ -83,9 +83,11 @@ const POINTS_CONFIG = {
   POINTS_COLUMN_NAME: 'POINTS'
 };
 
+```
 
-## Example ##
+### Example
 
+```javascript
 const CONFIG = {
   STAGE_SHEETS: [
     'Groups',
@@ -108,3 +110,4 @@ const POINTS_CONFIG = {
   NAME_COLUMN_NAME: 'NAME',
   POINTS_COLUMN_NAME: 'POINTS'
 };
+
