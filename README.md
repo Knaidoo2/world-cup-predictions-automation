@@ -112,5 +112,4 @@ const POINTS_CONFIG = {
 };
 ```
 
-Template:
-https://docs.google.com/spreadsheets/d/1LmjixYJ4ifZtZ2JRNne35rfVvIK3PZslmS9jtSd4xzQ/edit?usp=sharing
+Contact me directly for a template of the google sheet so you can plug and play names.
