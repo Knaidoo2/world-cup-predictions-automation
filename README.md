@@ -110,4 +110,7 @@ const POINTS_CONFIG = {
   NAME_COLUMN_NAME: 'NAME',
   POINTS_COLUMN_NAME: 'POINTS'
 };
+```
 
+Template:
+https://docs.google.com/spreadsheets/d/1LmjixYJ4ifZtZ2JRNne35rfVvIK3PZslmS9jtSd4xzQ/edit?usp=sharing
